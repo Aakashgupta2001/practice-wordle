@@ -1,4 +1,4 @@
-:root{
+:root {
   --color-tone-1: white;
 
   /* State-based Styles */
@@ -14,11 +14,11 @@ body {
   margin: 0;
   /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
-  font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
-  background-color: #121213;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  background-color: rgb(233, 233, 233);
 }
 
-#__next{
+#__next {
   height: 100%;
 }
 
@@ -30,4 +30,3 @@ a {
 * {
   box-sizing: border-box;
 }
-

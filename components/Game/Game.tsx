@@ -10,7 +10,7 @@ import Layout from "../Layout/Layout";
 const Game: React.FC = () => {
   return (
     <Provider store={store}>
-      <Layout />
+      {/* <Layout /> */}
       <div className={styles.game}>
         <Portal querySelector="#toaster">
           <Toaster />

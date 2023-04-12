@@ -7,10 +7,6 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   return (
     <Fragment>
-      <Head>
-        <title>Practice Wordle</title>
-        <meta name="description" content="App to practice wordle game." />
-      </Head>
       <Game />
     </Fragment>
   );
